@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sami22565.github.io/petro-fuels/sitemap.xml
